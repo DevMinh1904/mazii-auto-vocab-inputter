@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Logs & temp
+*.log
+temp_xlsx/
+page.html
+check_repos.js
+current_page.png
+after_plus_click.png
+
+# System & OS
+.DS_Store
+Thumbs.db

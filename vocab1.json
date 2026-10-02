@@ -1,0 +1,2846 @@
+[
+  {
+    "word": "ほん",
+    "phonetic": "ほん",
+    "meaning": "Sách",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ノート",
+    "phonetic": "のーと",
+    "meaning": "Vở",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ざっし",
+    "phonetic": "ざっし",
+    "meaning": "Tạp chí",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "じしょ",
+    "phonetic": "じしょ",
+    "meaning": "Từ điển",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "しんぶん",
+    "phonetic": "しんぶん",
+    "meaning": "Báo",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "えんぴつ",
+    "phonetic": "えんぴつ",
+    "meaning": "Bút chì gỗ",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ボールペン",
+    "phonetic": "ぼーるぺん",
+    "meaning": "Bút bi",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "けしゴム",
+    "phonetic": "けしごむ",
+    "meaning": "Cục tẩy",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "シャープペンシル",
+    "phonetic": "しゃーぷぺんしる",
+    "meaning": "Bút chì bấm",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "とけい",
+    "phonetic": "とけい",
+    "meaning": "Đồng hồ",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "つくえ",
+    "phonetic": "つくえ",
+    "meaning": "Bàn",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "いす",
+    "phonetic": "いす",
+    "meaning": "Ghế",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "かさ",
+    "phonetic": "かさ",
+    "meaning": "Dù/ô",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "かばん",
+    "phonetic": "かばん",
+    "meaning": "Cặp, túi xách",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "がっこう",
+    "phonetic": "がっこう",
+    "meaning": "Trường",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "かいしゃ",
+    "phonetic": "かいしゃ",
+    "meaning": "Công ty",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ぎんこう",
+    "phonetic": "ぎんこう",
+    "meaning": "Ngân hàng",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "びょういん",
+    "phonetic": "びょういん",
+    "meaning": "Bệnh viện",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "だいがく",
+    "phonetic": "だいがく",
+    "meaning": "Đại học",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "にほんご",
+    "phonetic": "にほんご",
+    "meaning": "Tiếng Nhật",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ちゅうごくご",
+    "phonetic": "ちゅうごくご",
+    "meaning": "Tiếng Trung",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "かんこくご",
+    "phonetic": "かんこくご",
+    "meaning": "Tiếng Hàn",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "タイご",
+    "phonetic": "たいご",
+    "meaning": "Tiếng Thái",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ベトナムご",
+    "phonetic": "べとなむご",
+    "meaning": "Tiếng Việt",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "インドネシアご",
+    "phonetic": "いんどねしあご",
+    "meaning": "Tiếng Indonesia",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "フランスご",
+    "phonetic": "ふらんすご",
+    "meaning": "Tiếng Pháp",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ドイツご",
+    "phonetic": "どいつご",
+    "meaning": "Tiếng Đức",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "イタリアご",
+    "phonetic": "いたりあご",
+    "meaning": "Tiếng Ý",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "スペインご",
+    "phonetic": "すぺいんご",
+    "meaning": "Tiếng Tây Ban Nha",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "えいご",
+    "phonetic": "えいご",
+    "meaning": "Tiếng Anh",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "がいこくご",
+    "phonetic": "がいこくご",
+    "meaning": "Tiếng nước ngoài",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "てちょう",
+    "phonetic": "てちょう",
+    "meaning": "Sổ tay",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "カード",
+    "phonetic": "かーど",
+    "meaning": "Thẻ",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "めいし",
+    "phonetic": "めいし",
+    "meaning": "Danh thiếp",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "CD",
+    "phonetic": "しーでぃー",
+    "meaning": "CD",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "テレビ",
+    "phonetic": "てれび",
+    "meaning": "Ti vi",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "ラジオ",
+    "phonetic": "らじお",
+    "meaning": "Radio",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "カメラ",
+    "phonetic": "かめら",
+    "meaning": "Máy ảnh",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "くるま",
+    "phonetic": "くるま",
+    "meaning": "Xe hơi",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "バイク",
+    "phonetic": "ばいく",
+    "meaning": "Xe máy",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "コンピューター",
+    "phonetic": "こんぴゅーたー",
+    "meaning": "Máy tính",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "かぎ",
+    "phonetic": "かぎ",
+    "meaning": "Chìa khóa",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "チョコレート",
+    "phonetic": "ちょこれーと",
+    "meaning": "Sôcôla",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "コーヒー",
+    "phonetic": "こーひー",
+    "meaning": "Cà phê",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "はな",
+    "phonetic": "はな",
+    "meaning": "Hoa",
+    "note": "Bài 2 - Danh từ"
+  },
+  {
+    "word": "これから おせわになります",
+    "phonetic": "これから おせわになります",
+    "meaning": "Từ nay rất mong bạn giúp đỡ",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "こちらこそよろしく",
+    "phonetic": "こちらこそよろしく",
+    "meaning": "Chính tôi mới là người phải nhờ anh giúp đỡ",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "あのう、これ コーヒーです。どうぞ。",
+    "phonetic": "あのう、これ こーひーです。どうぞ。",
+    "meaning": "À đây là cà phê, xin mời",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "どうもありがとう ございます。",
+    "phonetic": "どうもありがとう ございます。",
+    "meaning": "Xin cảm ơn",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "どういたしまして",
+    "phonetic": "どういたしまして",
+    "meaning": "Không có gì",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "すみません",
+    "phonetic": "すみません",
+    "meaning": "Xin lỗi",
+    "note": "Bài 2 - Hội thoại"
+  },
+  {
+    "word": "ばしょ",
+    "phonetic": "ばしょ",
+    "meaning": "Địa điểm",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "きょうしつ",
+    "phonetic": "きょうしつ",
+    "meaning": "Phòng học",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "しょくどう",
+    "phonetic": "しょくどう",
+    "meaning": "Nhà ăn",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "じむしょ",
+    "phonetic": "じむしょ",
+    "meaning": "Văn phòng",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "かいぎしつ",
+    "phonetic": "かいぎしつ",
+    "meaning": "Phòng họp",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "うけつけ",
+    "phonetic": "うけつけ",
+    "meaning": "Quầy tiếp tân",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ロビー",
+    "phonetic": "ろびー",
+    "meaning": "Sảnh đợi",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "へや",
+    "phonetic": "へや",
+    "meaning": "Phòng",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "トイレ",
+    "phonetic": "といれ",
+    "meaning": "Nhà vệ sinh",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "かいだん",
+    "phonetic": "かいだん",
+    "meaning": "Cầu thang",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "エレベーター",
+    "phonetic": "えれべーたー",
+    "meaning": "Thang máy",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "エスカレーター",
+    "phonetic": "えすかれーたー",
+    "meaning": "Thang cuốn",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "おかね",
+    "phonetic": "おかね",
+    "meaning": "Tiền",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "えん",
+    "phonetic": "えん",
+    "meaning": "Yên",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ドル",
+    "phonetic": "どる",
+    "meaning": "Đô - la",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ドン",
+    "phonetic": "どん",
+    "meaning": "Đồng",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "シャツ",
+    "phonetic": "しゃつ",
+    "meaning": "Áo sơ mi",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ネクタイ",
+    "phonetic": "ねくたい",
+    "meaning": "Cà vạt",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "くつ",
+    "phonetic": "くつ",
+    "meaning": "Giày",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ワイン",
+    "phonetic": "わいん",
+    "meaning": "Rượu vang",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "でんわ",
+    "phonetic": "でんわ",
+    "meaning": "Điện thoại",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "たばこ",
+    "phonetic": "たばこ",
+    "meaning": "Thuốc lá",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "せかいちず",
+    "phonetic": "せかいちず",
+    "meaning": "Bản đồ thế giới",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ひゃく",
+    "phonetic": "ひゃく",
+    "meaning": "100.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "にひゃく",
+    "phonetic": "にひゃく",
+    "meaning": "200.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "さんびゃく",
+    "phonetic": "さんびゃく",
+    "meaning": "300.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "よんひゃく",
+    "phonetic": "よんひゃく",
+    "meaning": "400.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ごひゃく",
+    "phonetic": "ごひゃく",
+    "meaning": "500.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ろっぴゃく",
+    "phonetic": "ろっぴゃく",
+    "meaning": "600.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ななひゃく",
+    "phonetic": "ななひゃく",
+    "meaning": "700.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "はっぴゃく",
+    "phonetic": "はっぴゃく",
+    "meaning": "800.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "きゅうひゃく",
+    "phonetic": "きゅうひゃく",
+    "meaning": "900.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "せん",
+    "phonetic": "せん",
+    "meaning": "1000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "にせん",
+    "phonetic": "にせん",
+    "meaning": "2000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "さんぜん",
+    "phonetic": "さんぜん",
+    "meaning": "3000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "よんせん",
+    "phonetic": "よんせん",
+    "meaning": "4000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ごせん",
+    "phonetic": "ごせん",
+    "meaning": "5000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ろくせん",
+    "phonetic": "ろくせん",
+    "meaning": "6000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ななせん",
+    "phonetic": "ななせん",
+    "meaning": "7000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "はっせん",
+    "phonetic": "はっせん",
+    "meaning": "8000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "きゅうせん",
+    "phonetic": "きゅうせん",
+    "meaning": "9000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "いちまん",
+    "phonetic": "いちまん",
+    "meaning": "10000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "にまん",
+    "phonetic": "にまん",
+    "meaning": "20000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "さんまん",
+    "phonetic": "さんまん",
+    "meaning": "30000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "よんまん",
+    "phonetic": "よんまん",
+    "meaning": "40000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ごまん",
+    "phonetic": "ごまん",
+    "meaning": "50000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ろくまん",
+    "phonetic": "ろくまん",
+    "meaning": "60000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ななまん",
+    "phonetic": "ななまん",
+    "meaning": "70000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "はちまん",
+    "phonetic": "はちまん",
+    "meaning": "80000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "きゅうまん",
+    "phonetic": "きゅうまん",
+    "meaning": "90000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "じゅうまん",
+    "phonetic": "じゅうまん",
+    "meaning": "100000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "にじゅうまん",
+    "phonetic": "にじゅうまん",
+    "meaning": "200000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "さんじゅうまん",
+    "phonetic": "さんじゅうまん",
+    "meaning": "300000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "よんじゅうまん",
+    "phonetic": "よんじゅうまん",
+    "meaning": "400000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ごじゅうまん",
+    "phonetic": "ごじゅうまん",
+    "meaning": "500000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ろくじゅうまん",
+    "phonetic": "ろくじゅうまん",
+    "meaning": "600000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "ななじゅうまん",
+    "phonetic": "ななじゅうまん",
+    "meaning": "700000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "はちじゅうまん",
+    "phonetic": "はちじゅうまん",
+    "meaning": "800000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "きゅうじゅうまん",
+    "phonetic": "きゅうじゅうまん",
+    "meaning": "900000.0",
+    "note": "Bài 3 - Số đếm"
+  },
+  {
+    "word": "うち",
+    "phonetic": "うち",
+    "meaning": "Nhà",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ホーチミンし",
+    "phonetic": "ほーちみんし",
+    "meaning": "TP. HCM",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "いなか",
+    "phonetic": "いなか",
+    "meaning": "Quê",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "Nうりば",
+    "phonetic": "えぬうりば",
+    "meaning": "Quầy bán N",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "ちか",
+    "phonetic": "ちか",
+    "meaning": "Tầng hầm",
+    "note": "Bài 3 - Danh từ"
+  },
+  {
+    "word": "いっく",
+    "phonetic": "いっく",
+    "meaning": "Quận 1",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "にく",
+    "phonetic": "にく",
+    "meaning": "Quận 2",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "さんく",
+    "phonetic": "さんく",
+    "meaning": "Quận 3",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "よんく",
+    "phonetic": "よんく",
+    "meaning": "Quận 4",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "ごく",
+    "phonetic": "ごく",
+    "meaning": "Quận 5",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "ろっく",
+    "phonetic": "ろっく",
+    "meaning": "Quận 6",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "ななく",
+    "phonetic": "ななく",
+    "meaning": "Quận 7",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "はっく",
+    "phonetic": "はっく",
+    "meaning": "Quận 8",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "きゅうく",
+    "phonetic": "きゅうく",
+    "meaning": "Quận 9",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "じゅっく",
+    "phonetic": "じゅっく",
+    "meaning": "Quận 10",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "じゅういっく",
+    "phonetic": "じゅういっく",
+    "meaning": "Quận 11",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "じゅうにく",
+    "phonetic": "じゅうにく",
+    "meaning": "Quận 12",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "Binh Thanhく",
+    "phonetic": "びんたんく",
+    "meaning": "Quận Bình Thạnh",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "Binh Tanく",
+    "phonetic": "びんたんく",
+    "meaning": "Quận Bình Tân",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "Go Vapく",
+    "phonetic": "ごーばっぷく",
+    "meaning": "Quận Gò Vấp",
+    "note": "Bài 3 - Đơn vị hành chính"
+  },
+  {
+    "word": "いっかい",
+    "phonetic": "いっかい",
+    "meaning": "Tầng 1",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "にかい",
+    "phonetic": "にかい",
+    "meaning": "Tầng 2",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "さんがい",
+    "phonetic": "さんがい",
+    "meaning": "Tầng 3",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "よんかい",
+    "phonetic": "よんかい",
+    "meaning": "Tầng 4",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "ごかい",
+    "phonetic": "ごかい",
+    "meaning": "Tầng 5",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "ろっかい",
+    "phonetic": "ろっかい",
+    "meaning": "Tầng 6",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "ななかい",
+    "phonetic": "ななかい",
+    "meaning": "Tầng 7",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "はっかい",
+    "phonetic": "はっかい",
+    "meaning": "Tầng 8",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "きゅうかい",
+    "phonetic": "きゅうかい",
+    "meaning": "Tầng 9",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "じゅっかい",
+    "phonetic": "じゅっかい",
+    "meaning": "Tầng 10",
+    "note": "Bài 3 - Đếm tầng"
+  },
+  {
+    "word": "なんがい",
+    "phonetic": "なんがい",
+    "meaning": "Tầng mấy??",
+    "note": "Bài 3 - Danh từ hỏi"
+  },
+  {
+    "word": "Nをみせてください",
+    "phonetic": "えぬをみせてください",
+    "meaning": "Hãy cho tôi xem N",
+    "note": "Bài 3 - Cách diễn đạt"
+  },
+  {
+    "word": "じゃ、これをください",
+    "phonetic": "じゃ、これをください",
+    "meaning": "Vậy thì bán cho tôi cái này",
+    "note": "Bài 3 - Cách diễn đạt"
+  },
+  {
+    "word": "にちようび",
+    "phonetic": "にちようび",
+    "meaning": "Chủ Nhật",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "げつようび",
+    "phonetic": "げつようび",
+    "meaning": "Thứ 2",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "かようび",
+    "phonetic": "かようび",
+    "meaning": "Thứ 3",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "すいようび",
+    "phonetic": "すいようび",
+    "meaning": "Thứ 4",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "もくようび",
+    "phonetic": "もくようび",
+    "meaning": "Thứ 5",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "きんようび",
+    "phonetic": "きんようび",
+    "meaning": "Thứ 6",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "どようび",
+    "phonetic": "どようび",
+    "meaning": "Thứ 7",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "きょう",
+    "phonetic": "きょう",
+    "meaning": "Hôm nay",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "あした",
+    "phonetic": "あした",
+    "meaning": "Ngày mai",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "あさって",
+    "phonetic": "あさって",
+    "meaning": "Ngày mốt",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "きのう",
+    "phonetic": "きのう",
+    "meaning": "Hôm qua",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "おととい",
+    "phonetic": "おととい",
+    "meaning": "Hôm kia",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "まいにち",
+    "phonetic": "まいにち",
+    "meaning": "Mỗi ngày",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "じかん",
+    "phonetic": "じかん",
+    "meaning": "Thời gian",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "あさ",
+    "phonetic": "あさ",
+    "meaning": "Buổi sáng",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ひる",
+    "phonetic": "ひる",
+    "meaning": "Buổi trưa",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ばん",
+    "phonetic": "ばん",
+    "meaning": "Buổi tối",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "けさ",
+    "phonetic": "けさ",
+    "meaning": "Sáng nay",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "こんばん",
+    "phonetic": "こんばん",
+    "meaning": "Tối nay",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "まいあさ",
+    "phonetic": "まいあさ",
+    "meaning": "Mỗi sáng",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "まいばん",
+    "phonetic": "まいばん",
+    "meaning": "Mỗi tối",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "あしたのあさ",
+    "phonetic": "あしたのあさ",
+    "meaning": "Sáng mai",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "きのうのばん",
+    "phonetic": "きのうのばん",
+    "meaning": "Tối hôm qua",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "いちじ",
+    "phonetic": "いちじ",
+    "meaning": "1 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "にじ",
+    "phonetic": "にじ",
+    "meaning": "2 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "さんじ",
+    "phonetic": "さんじ",
+    "meaning": "3 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "よじ",
+    "phonetic": "よじ",
+    "meaning": "4 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "ごじ",
+    "phonetic": "ごじ",
+    "meaning": "5 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "ろくじ",
+    "phonetic": "ろくじ",
+    "meaning": "6 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "しちじ",
+    "phonetic": "しちじ",
+    "meaning": "7 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "はちじ",
+    "phonetic": "はちじ",
+    "meaning": "8 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "くじ",
+    "phonetic": "くじ",
+    "meaning": "9 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "じゅうじ",
+    "phonetic": "じゅうじ",
+    "meaning": "10 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "じゅういちじ",
+    "phonetic": "じゅういちじ",
+    "meaning": "11 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "じゅうにじ",
+    "phonetic": "じゅうにじ",
+    "meaning": "12 giờ",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "ごふん",
+    "phonetic": "ごふん",
+    "meaning": "5 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "じゅっぷん",
+    "phonetic": "じゅっぷん",
+    "meaning": "10 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "じゅうごふん",
+    "phonetic": "じゅうごふん",
+    "meaning": "15 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "にじゅっぷん",
+    "phonetic": "にじゅっぷん",
+    "meaning": "20 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "にじゅうごふん",
+    "phonetic": "にじゅうごふん",
+    "meaning": "25 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "さんじゅうごふん",
+    "phonetic": "さんじゅうごふん",
+    "meaning": "35 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "よんじゅっぷん",
+    "phonetic": "よんじゅっぷん",
+    "meaning": "40 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "よんじゅうごふん",
+    "phonetic": "よんじゅうごふん",
+    "meaning": "45 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "しちじはん",
+    "phonetic": "しちじはん",
+    "meaning": "7 giờ rưỡi",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "はちじごふんまえ",
+    "phonetic": "はちじごふんまえ",
+    "meaning": "8 giờ kém 5 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "はちじじゅっぷんまえ",
+    "phonetic": "はちじじゅっぷんまえ",
+    "meaning": "8 giờ kém 10 phút",
+    "note": "Bài 4 - Giờ giấc"
+  },
+  {
+    "word": "いま",
+    "phonetic": "いま",
+    "meaning": "Bây giờ",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ごぜん",
+    "phonetic": "ごぜん",
+    "meaning": "Giờ sáng, buổi sáng",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ごご",
+    "phonetic": "ごご",
+    "meaning": "Giờ chiều, buổi chiều",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "べんきょう",
+    "phonetic": "べんきょう",
+    "meaning": "Sự học",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "やすみ",
+    "phonetic": "やすみ",
+    "meaning": "Ngày nghỉ, giờ nghỉ",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ペキン",
+    "phonetic": "ぺきん",
+    "meaning": "Bắc Kinh",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "バンコク",
+    "phonetic": "ばんこく",
+    "meaning": "Băng Cốc",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ロンドン",
+    "phonetic": "ろんどん",
+    "meaning": "Luân Đôn",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ニューヨーク",
+    "phonetic": "にゅーよーく",
+    "meaning": "New York",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "こんしゅう",
+    "phonetic": "こんしゅう",
+    "meaning": "Tuần này",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "らいしゅう",
+    "phonetic": "らいしゅう",
+    "meaning": "Tuần sau",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "さらいしゅう",
+    "phonetic": "さらいしゅう",
+    "meaning": "Tuần sau nữa",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "せんしゅう",
+    "phonetic": "せんしゅう",
+    "meaning": "Tuần trước",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "せんせんしゅう",
+    "phonetic": "せんせんしゅう",
+    "meaning": "Tuần trước nữa",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "まいしゅう",
+    "phonetic": "まいしゅう",
+    "meaning": "Mỗi tuần",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "ゆうびんきょく",
+    "phonetic": "ゆうびんきょく",
+    "meaning": "Bưu điện",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "としょかん",
+    "phonetic": "としょかん",
+    "meaning": "Thư viện",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "びじゅつかん",
+    "phonetic": "びじゅつかん",
+    "meaning": "Bảo tàng mỹ thuật",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "スーパー",
+    "phonetic": "すーぱー",
+    "meaning": "Siêu thị",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "デパート",
+    "phonetic": "でぱーと",
+    "meaning": "Trung tâm thương mại",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "でんわばんごう",
+    "phonetic": "でんわばんごう",
+    "meaning": "Số điện thoại",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "いちば",
+    "phonetic": "いちば",
+    "meaning": "Chợ",
+    "note": "Bài 4 - Danh từ"
+  },
+  {
+    "word": "べんきょうします",
+    "phonetic": "べんきょうします",
+    "meaning": "Học",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "はたらきます",
+    "phonetic": "はたらきます",
+    "meaning": "Làm việc",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "やすみます",
+    "phonetic": "やすみます",
+    "meaning": "Nghỉ ngơi",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "おわります",
+    "phonetic": "おわります",
+    "meaning": "Kết thúc",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "おきます",
+    "phonetic": "おきます",
+    "meaning": "Thức dậy",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "ねます",
+    "phonetic": "ねます",
+    "meaning": "Ngủ",
+    "note": "Bài 4 - Động từ"
+  },
+  {
+    "word": "いちがつ",
+    "phonetic": "いちがつ",
+    "meaning": "Tháng 1",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にがつ",
+    "phonetic": "にがつ",
+    "meaning": "Tháng 2",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さんがつ",
+    "phonetic": "さんがつ",
+    "meaning": "Tháng 3",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "しがつ",
+    "phonetic": "しがつ",
+    "meaning": "Tháng 4",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ごがつ",
+    "phonetic": "ごがつ",
+    "meaning": "Tháng 5",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ろくがつ",
+    "phonetic": "ろくがつ",
+    "meaning": "Tháng 6",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "しちがつ",
+    "phonetic": "しちがつ",
+    "meaning": "Tháng 7",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "はちがつ",
+    "phonetic": "はちがつ",
+    "meaning": "Tháng 8",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "くがつ",
+    "phonetic": "くがつ",
+    "meaning": "Tháng 9",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうがつ",
+    "phonetic": "じゅうがつ",
+    "meaning": "Tháng 10",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅういちがつ",
+    "phonetic": "じゅういちがつ",
+    "meaning": "Tháng 11",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうにがつ",
+    "phonetic": "じゅうにがつ",
+    "meaning": "Tháng 12",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "こんげつ",
+    "phonetic": "こんげつ",
+    "meaning": "Tháng này",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "らいげつ",
+    "phonetic": "らいげつ",
+    "meaning": "Tháng sau",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さらいげつ",
+    "phonetic": "さらいげつ",
+    "meaning": "Tháng sau nữa",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "せんげつ",
+    "phonetic": "せんげつ",
+    "meaning": "Tháng trước",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "せんせんげつ",
+    "phonetic": "せんせんげつ",
+    "meaning": "Tháng trước nữa",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "まいつき",
+    "phonetic": "まいつき",
+    "meaning": "Mỗi tháng",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ついたち",
+    "phonetic": "ついたち",
+    "meaning": "Ngày 1",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ふつか",
+    "phonetic": "ふつか",
+    "meaning": "Ngày 2",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "みっか",
+    "phonetic": "みっか",
+    "meaning": "Ngày 3",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "よっか",
+    "phonetic": "よっか",
+    "meaning": "Ngày 4",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "いつか",
+    "phonetic": "いつか",
+    "meaning": "Ngày 5",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "むいか",
+    "phonetic": "むいか",
+    "meaning": "Ngày 6",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "なのか",
+    "phonetic": "なのか",
+    "meaning": "Ngày 7",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ようか",
+    "phonetic": "ようか",
+    "meaning": "Ngày 8",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "こ comic なか",
+    "phonetic": "ここのか",
+    "meaning": "Ngày 9",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "とおか",
+    "phonetic": "とおか",
+    "meaning": "Ngày 10",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅういちにち",
+    "phonetic": "じゅういちにち",
+    "meaning": "Ngày 11",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうににち",
+    "phonetic": "じゅうににち",
+    "meaning": "Ngày 12",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうさんにち",
+    "phonetic": "じゅうさんにち",
+    "meaning": "Ngày 13",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうよっか",
+    "phonetic": "じゅうよっか",
+    "meaning": "Ngày 14",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうごにち",
+    "phonetic": "じゅうごにち",
+    "meaning": "Ngày 15",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうろくにち",
+    "phonetic": "じゅうろくにち",
+    "meaning": "Ngày 16",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうしちにち",
+    "phonetic": "じゅうしちにち",
+    "meaning": "Ngày 17",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうはちにち",
+    "phonetic": "じゅうはちにち",
+    "meaning": "Ngày 18",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうくにち",
+    "phonetic": "じゅうくにち",
+    "meaning": "Ngày 19",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "はつか",
+    "phonetic": "はつか",
+    "meaning": "Ngày 20",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅういちにち",
+    "phonetic": "にじゅういちにち",
+    "meaning": "Ngày 21",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうににち",
+    "phonetic": "にじゅうににち",
+    "meaning": "Ngày 22",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうさんにち",
+    "phonetic": "にじゅうさんにち",
+    "meaning": "Ngày 23",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうよっか",
+    "phonetic": "にじゅうよっか",
+    "meaning": "Ngày 24",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうごにち",
+    "phonetic": "にじゅうごにち",
+    "meaning": "Ngày 25",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうろくにち",
+    "phonetic": "にじゅうろくにち",
+    "meaning": "Ngày 26",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうしちにち",
+    "phonetic": "にじゅうしちにち",
+    "meaning": "Ngày 27",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうはちにち",
+    "phonetic": "にじゅうはちにち",
+    "meaning": "Ngày 28",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にじゅうくにち",
+    "phonetic": "にじゅうくにち",
+    "meaning": "Ngày 29",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さんじゅうにち",
+    "phonetic": "さんじゅうにち",
+    "meaning": "Ngày 30",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さんじゅういちにち",
+    "phonetic": "さんじゅういちにち",
+    "meaning": "Ngày 31",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "たんじょうび",
+    "phonetic": "たんじょうび",
+    "meaning": "Ngày sinh nhật",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "いちねん",
+    "phonetic": "いちねん",
+    "meaning": "Năm 1",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "にねん",
+    "phonetic": "にねん",
+    "meaning": "Năm 2",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さんねん",
+    "phonetic": "さんねん",
+    "meaning": "Năm 3",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "よねん",
+    "phonetic": "よねん",
+    "meaning": "Năm 4",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ごねん",
+    "phonetic": "ごねん",
+    "meaning": "Năm 5",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ろくねん",
+    "phonetic": "ろくねん",
+    "meaning": "Năm 6",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ななねん",
+    "phonetic": "ななねん",
+    "meaning": "Năm 7",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "はちねん",
+    "phonetic": "はちねん",
+    "meaning": "Năm 8",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きゅうねん",
+    "phonetic": "きゅうねん",
+    "meaning": "Năm 9",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じゅうねん",
+    "phonetic": "じゅうねん",
+    "meaning": "Năm 10",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ことし",
+    "phonetic": "ことし",
+    "meaning": "Năm nay",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "らいねん",
+    "phonetic": "らいねん",
+    "meaning": "Năm sau",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "さらいねん",
+    "phonetic": "さらいねん",
+    "meaning": "Năm sau nữa",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きょねん",
+    "phonetic": "きょねん",
+    "meaning": "Năm trước",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おととし",
+    "phonetic": "おととし",
+    "meaning": "Năm kia",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "まいとし",
+    "phonetic": "まいとし",
+    "meaning": "Mỗi năm",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "とうきょう",
+    "phonetic": "とうきょう",
+    "meaning": "Tokyo",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おおさか",
+    "phonetic": "おおさか",
+    "meaning": "Osaka",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きょうと",
+    "phonetic": "きょうと",
+    "meaning": "Kyoto",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "こうべ",
+    "phonetic": "こうべ",
+    "meaning": "Kobe",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "くうこう",
+    "phonetic": "くうこう",
+    "meaning": "Sân bay",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "えき",
+    "phonetic": "えき",
+    "meaning": "Nhà ga",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きっさてん",
+    "phonetic": "きっさてん",
+    "meaning": "Quán cà phê",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "レストラン",
+    "phonetic": "れすとらん",
+    "meaning": "Nhà hàng",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きょうかい",
+    "phonetic": "きょうかい",
+    "meaning": "Nhà thờ",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おてら",
+    "phonetic": "おてら",
+    "meaning": "Chùa",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ホテル",
+    "phonetic": "ほてる",
+    "meaning": "Khách sạn",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "こうえん",
+    "phonetic": "こうえん",
+    "meaning": "Công viên",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "かぞく",
+    "phonetic": "かぞく",
+    "meaning": "Gia đình",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "そふ",
+    "phonetic": "そふ",
+    "meaning": "Ông",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "そぼ",
+    "phonetic": "そぼ",
+    "meaning": "Bà",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ちち",
+    "phonetic": "ちち",
+    "meaning": "Bố",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "はは",
+    "phonetic": "はは",
+    "meaning": "Mẹ",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "りょうしん",
+    "phonetic": "りょうしん",
+    "meaning": "Bố mẹ",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "きょうだい",
+    "phonetic": "きょうだい",
+    "meaning": "Anh em",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "あに",
+    "phonetic": "あに",
+    "meaning": "Anh trai",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "あね",
+    "phonetic": "あね",
+    "meaning": "Chị gái",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おとうと",
+    "phonetic": "おとうと",
+    "meaning": "Em trai",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "いもうと",
+    "phonetic": "いもうと",
+    "meaning": "Em gái",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ごかぞく",
+    "phonetic": "ごかぞく",
+    "meaning": "Gia đình người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おじいさん",
+    "phonetic": "おじいさん",
+    "meaning": "Ông người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おばあさん",
+    "phonetic": "おばあさん",
+    "meaning": "Bà người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おとうさん",
+    "phonetic": "おとうさん",
+    "meaning": "Bố người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おかあさん",
+    "phonetic": "おかあさん",
+    "meaning": "Mẹ người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ごりょうしん",
+    "phonetic": "ごりょうしん",
+    "meaning": "Bố mẹ người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ごきょうだい",
+    "phonetic": "ごきょうだい",
+    "meaning": "Anh em người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おにいさん",
+    "phonetic": "おにいさん",
+    "meaning": "Anh trai người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おねえさん",
+    "phonetic": "おねえさん",
+    "meaning": "Chị gái người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "おとうとさん",
+    "phonetic": "おとうとさん",
+    "meaning": "Em trai người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "いもうとさん",
+    "phonetic": "いもうとさん",
+    "meaning": "Em gái người ta",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ひとり",
+    "phonetic": "ひとり",
+    "meaning": "1 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "ふたり",
+    "phonetic": "ふたり",
+    "meaning": "2 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "さんにん",
+    "phonetic": "さんにん",
+    "meaning": "3 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "よにん",
+    "phonetic": "よにん",
+    "meaning": "4 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "ごにん",
+    "phonetic": "ごにん",
+    "meaning": "5 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "ろくにん",
+    "phonetic": "ろくにん",
+    "meaning": "6 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "ななにん",
+    "phonetic": "ななにん",
+    "meaning": "7 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "はちにん",
+    "phonetic": "はちにん",
+    "meaning": "8 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "きゅうにん",
+    "phonetic": "きゅうにん",
+    "meaning": "9 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "じゅうにん",
+    "phonetic": "じゅうにん",
+    "meaning": "10 người",
+    "note": "Bài 5 - Số đếm"
+  },
+  {
+    "word": "ともだち",
+    "phonetic": "ともだち",
+    "meaning": "Bạn bè",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "こいびと",
+    "phonetic": "こいびと",
+    "meaning": "Người yêu",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "かれ",
+    "phonetic": "かれ",
+    "meaning": "Bạn trai, anh ấy",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "かのじょ",
+    "phonetic": "かのじょ",
+    "meaning": "Bạn gái, cô ấy",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "のりもの",
+    "phonetic": "のりもの",
+    "meaning": "Phương tiện",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "バス",
+    "phonetic": "ばす",
+    "meaning": "Xe buýt, xe đò",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "タクシー",
+    "phonetic": "たくしー",
+    "meaning": "Tắc-xi",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "れっしゃ",
+    "phonetic": "れっしゃ",
+    "meaning": "Tàu hỏa",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "でんしゃ",
+    "phonetic": "でんしゃ",
+    "meaning": "Tàu điện",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ちかてつ",
+    "phonetic": "ちかてつ",
+    "meaning": "Tàu điện ngầm",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "しんかんせん",
+    "phonetic": "しんかんせん",
+    "meaning": "Tàu siêu tốc",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ひこうき",
+    "phonetic": "ひこうき",
+    "meaning": "Máy bay",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "ふね",
+    "phonetic": "ふね",
+    "meaning": "Tàu thuyền",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "じてんしゃ",
+    "phonetic": "じてんしゃ",
+    "meaning": "Xe đạp",
+    "note": "Bài 5 - Danh từ"
+  },
+  {
+    "word": "いきます",
+    "phonetic": "いきます",
+    "meaning": "Đi",
+    "note": "Bài 5 - Động từ"
+  },
+  {
+    "word": "きます",
+    "phonetic": "きます",
+    "meaning": "Đến",
+    "note": "Bài 5 - Động từ"
+  },
+  {
+    "word": "かえります",
+    "phonetic": "かえります",
+    "meaning": "Về",
+    "note": "Bài 5 - Động từ"
+  },
+  {
+    "word": "たべもの",
+    "phonetic": "たべもの",
+    "meaning": "Đồ ăn",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ごはん",
+    "phonetic": "ごはん",
+    "meaning": "Cơm",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "パン",
+    "phonetic": "ぱん",
+    "meaning": "Bánh mỳ",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "さかな",
+    "phonetic": "さかな",
+    "meaning": "Cá",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "たまご",
+    "phonetic": "たまご",
+    "meaning": "Trứng",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "にく",
+    "phonetic": "にく",
+    "meaning": "Thịt",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ぎゅうにく",
+    "phonetic": "ぎゅうにく",
+    "meaning": "Thịt bò",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ぶたにく",
+    "phonetic": "ぶたにく",
+    "meaning": "Thịt heo",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "とりにく",
+    "phonetic": "とりにく",
+    "meaning": "Thịt gà",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "やさい",
+    "phonetic": "やさい",
+    "meaning": "Rau củ",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "くだもの",
+    "phonetic": "くだもの",
+    "meaning": "Trái cây",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "りんご",
+    "phonetic": "りんご",
+    "meaning": "Táo",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "バナナ",
+    "phonetic": "ばなな",
+    "meaning": "Chuối",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "あさごはん",
+    "phonetic": "あさごはん",
+    "meaning": "Cơm sáng",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ひるごはん",
+    "phonetic": "ひるごはん",
+    "meaning": "Cơm trưa",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ばんごはん",
+    "phonetic": "ばんごはん",
+    "meaning": "Cơm tối",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "のみもの",
+    "phonetic": "のみもの",
+    "meaning": "Đồ uống",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "みず",
+    "phonetic": "みず",
+    "meaning": "Nước",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "おちゃ",
+    "phonetic": "おちゃ",
+    "meaning": "Trà",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "こうちゃ",
+    "phonetic": "coucha",
+    "meaning": "Trà lipton",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ぎゅうにゅう",
+    "phonetic": "ぎゅうにゅう",
+    "meaning": "Sữa tươi",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ジュース",
+    "phonetic": "じゅーす",
+    "meaning": "Nước ép",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "ビール",
+    "phonetic": "びーる",
+    "meaning": "Bia",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "おさけ",
+    "phonetic": "おさけ",
+    "meaning": "Rượu",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "たべます",
+    "phonetic": "たべます",
+    "meaning": "Ăn",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "のみます",
+    "phonetic": "のみます",
+    "meaning": "Uống",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "かいます",
+    "phonetic": "かいます",
+    "meaning": "Mua",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "てがみ",
+    "phonetic": "てがみ",
+    "meaning": "Thư",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "え",
+    "phonetic": "え",
+    "meaning": "Tranh",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "レポート",
+    "phonetic": "れぽーと",
+    "meaning": "Bài báo cáo",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "おんがく",
+    "phonetic": "おんがく",
+    "meaning": "Âm nhạc",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "えいが",
+    "phonetic": "えいが",
+    "meaning": "Phim",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "サッカー",
+    "phonetic": "さっかー",
+    "meaning": "Bóng đá",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "テニス",
+    "phonetic": "てにす",
+    "meaning": "Quần vợt",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "しゅくだい",
+    "phonetic": "しゅくだい",
+    "meaning": "Bài tập về nhà",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "おはなみ",
+    "phonetic": "おはなみ",
+    "meaning": "Lễ hội ngắm hoa anh đào",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "しゃしん",
+    "phonetic": "しゃしん",
+    "meaning": "Hình ảnh",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "みせ",
+    "phonetic": "みせ",
+    "meaning": "Cửa hàng",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "にわ",
+    "phonetic": "にわ",
+    "meaning": "Sân vườn",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "よる",
+    "phonetic": "よる",
+    "meaning": "Đêm",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "つぎ",
+    "phonetic": "つぎ",
+    "meaning": "Tiếp theo",
+    "note": "Bài 6 - Danh từ"
+  },
+  {
+    "word": "みます",
+    "phonetic": "みます",
+    "meaning": "Nhìn, xem",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "します",
+    "phonetic": "します",
+    "meaning": "Chơi, làm, tổ chức",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "すいます",
+    "phonetic": "すいます",
+    "meaning": "Hút",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "とります",
+    "phonetic": "とります",
+    "meaning": "Chụp",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "あいます",
+    "phonetic": "あいます",
+    "meaning": "Gặp",
+    "note": "Bài 6 - Động từ"
+  },
+  {
+    "word": "いつも",
+    "phonetic": "いつも",
+    "meaning": "Luôn luôn",
+    "note": "Bài 6 - Trạng từ"
+  },
+  {
+    "word": "よく",
+    "phonetic": "よく",
+    "meaning": "Thường",
+    "note": "Bài 6 - Trạng từ"
+  },
+  {
+    "word": "ときどき",
+    "phonetic": "ときどき",
+    "meaning": "Thỉnh thoảng",
+    "note": "Bài 6 - Trạng từ"
+  },
+  {
+    "word": "たまに",
+    "phonetic": "たまに",
+    "meaning": "Ít khi",
+    "note": "Bài 6 - Trạng từ"
+  },
+  {
+    "word": "ぜんぜん",
+    "phonetic": "ぜんぜん",
+    "meaning": "Hoàn toàn không",
+    "note": "Bài 6 - Trạng từ"
+  },
+  {
+    "word": "それから",
+    "phonetic": "それから",
+    "meaning": "Sau đó",
+    "note": "Bài 6 - Liên từ"
+  },
+  {
+    "word": "どうぐ",
+    "phonetic": "どうぐ",
+    "meaning": "Dụng cụ",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "はし",
+    "phonetic": "はし",
+    "meaning": "Đũa",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "スプーン",
+    "phonetic": "すぷーん",
+    "meaning": "Muỗng",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "ナイフ",
+    "phonetic": "ないふ",
+    "meaning": "Dao",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "フォーク",
+    "phonetic": "ふぉーく",
+    "meaning": "Nĩa",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "コップ",
+    "phonetic": "こっぷ",
+    "meaning": "Ly",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "て",
+    "phonetic": "て",
+    "meaning": "Tay",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "はさみ",
+    "phonetic": "はさみ",
+    "meaning": "Kéo",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "かみ",
+    "phonetic": "かみ",
+    "meaning": "Giấy",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "メール",
+    "phonetic": "めーる",
+    "meaning": "Email",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "メッセージ",
+    "phonetic": "めっせーじ",
+    "meaning": "Tin nhắn",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "ホッチキス",
+    "phonetic": "ほっちきす",
+    "meaning": "Dập ghim",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "セロテープ",
+    "phonetic": "せろてーぷ",
+    "meaning": "Băng dính",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "パンチ",
+    "phonetic": "ぱんち",
+    "meaning": "Bấm lỗ",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "ファクス",
+    "phonetic": "ふぁくす",
+    "meaning": "Máy Fax",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "パソコン",
+    "phonetic": "ぱそこん",
+    "meaning": "Máy tính",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おしょうがつ",
+    "phonetic": "おしょうがつ",
+    "meaning": "Tết Tây",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "テト",
+    "phonetic": "てと",
+    "meaning": "Tết Việt",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "クリスマス",
+    "phonetic": "くりすます",
+    "meaning": "Giáng Sinh",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "バレンタイン",
+    "phonetic": "ばれんたいん",
+    "meaning": "Ngày lễ tình nhân",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "せんせいのひ",
+    "phonetic": "せんせいのひ",
+    "meaning": "Ngày Nhà giáo",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "プレゼント",
+    "phonetic": "ぷれぜんと",
+    "meaning": "Món quà",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "バラ",
+    "phonetic": "ばら",
+    "meaning": "Hoa hồng",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おとしだま",
+    "phonetic": "おとしだま",
+    "meaning": "Lì xì",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "ねんがじょう",
+    "phonetic": "ねんがじょう",
+    "meaning": "Thiệp chúc Tết",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "Nカード",
+    "phonetic": "えぬかーど",
+    "meaning": "Thiệp N",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おとこのひと",
+    "phonetic": "おとこのひと",
+    "meaning": "Người đàn ông",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おんなのひと",
+    "phonetic": "おんなのひと",
+    "meaning": "Phụ nữ",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "こども",
+    "phonetic": "こども",
+    "meaning": "Trẻ con",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "りょこう",
+    "phonetic": "りょこう",
+    "meaning": "Du lịch",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おみやげ",
+    "phonetic": "おみやげ",
+    "meaning": "Quà lưu niệm",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "にもつ",
+    "phonetic": "にもつ",
+    "meaning": "Hành lý",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "きっぷ",
+    "phonetic": "きっぷ",
+    "meaning": "Vé tàu",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "ヨーロッパ",
+    "phonetic": "よーろっぱ",
+    "meaning": "Châu Âu",
+    "note": "Bài 7 - Danh từ"
+  },
+  {
+    "word": "おしえます",
+    "phonetic": "おしえます",
+    "meaning": "Dạy",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "ならいます",
+    "phonetic": "ならいます",
+    "meaning": "Học (từ người khác)",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "かします",
+    "phonetic": "かします",
+    "meaning": "Cho mượn",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "かります",
+    "phonetic": "かります",
+    "meaning": "Mượn",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "あげます",
+    "phonetic": "あげます",
+    "meaning": "Tặng",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "もらいます",
+    "phonetic": "もらいます",
+    "meaning": "Nhận",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "くれません",
+    "phonetic": "くれます",
+    "meaning": "Cho tôi",
+    "note": "Bài 7 - Động từ"
+  },
+  {
+    "word": "これから",
+    "phonetic": "これから",
+    "meaning": "Kể từ nay",
+    "note": "Bài 7 - Liên từ"
+  },
+  {
+    "word": "ごめんください",
+    "phonetic": "ごめんください",
+    "meaning": "Có ai ở nhà không?",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "いらっしゃい",
+    "phonetic": "いらっしゃい",
+    "meaning": "Hoan nghênh anh chị đến chơi",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "どうぞお上がりください",
+    "phonetic": "どうぞおあがりください",
+    "meaning": "Mời vào nhà",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "しつれいします",
+    "phonetic": "しつれいします",
+    "meaning": "Tôi xin phép tôi về nhà",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "そろそろ しつれいします",
+    "phonetic": "そろそろ しつれいします",
+    "meaning": "Đã đến lúc tôi phải về",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "また いらっしゃってください",
+    "phonetic": "また いらっしゃってください",
+    "meaning": "Lần sau lại đến chơi nhé",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "コーヒー もういっぱい いかがですか",
+    "phonetic": "こーひー もういっぱい いかがですか",
+    "meaning": "Anh chị dùng thêm một ly nữa nhé",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "いただきます",
+    "phonetic": "いただきます",
+    "meaning": "Xin phép anh chị tôi dùng đây",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "ごちそうさまでした",
+    "phonetic": "ごちそうさまでした",
+    "meaning": "Cảm ơn vì bữa ăn",
+    "note": "Bài 7 - Cách diễn đạt"
+  },
+  {
+    "word": "日",
+    "phonetic": "ひ",
+    "meaning": "Ngày",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "毎日",
+    "phonetic": "まいにち",
+    "meaning": "Mỗi ngày",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "日曜日",
+    "phonetic": "にちようび",
+    "meaning": "Chủ Nhật",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "月",
+    "phonetic": "つき",
+    "meaning": "Mặt trăng",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "一月",
+    "phonetic": "いちがつ",
+    "meaning": "Tháng 1",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "毎月",
+    "phonetic": "まいつき",
+    "meaning": "Mỗi tháng",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "月曜日",
+    "phonetic": "げつようび",
+    "meaning": "Thứ 2",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "火",
+    "phonetic": "ひ",
+    "meaning": "Lửa",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "火曜日",
+    "phonetic": "かようび",
+    "meaning": "Thứ 3",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "水",
+    "phonetic": "みず",
+    "meaning": "Nước",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "水曜日",
+    "phonetic": "すいようび",
+    "meaning": "Thứ 4",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "木",
+    "phonetic": "き",
+    "meaning": "Cây",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "木曜日",
+    "phonetic": "もくようび",
+    "meaning": "Thứ 5",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "金",
+    "phonetic": "きん",
+    "meaning": "Vàng",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "お金",
+    "phonetic": "おかね",
+    "meaning": "Tiền",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "金曜日",
+    "phonetic": "きんようび",
+    "meaning": "Thứ 6",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "土曜日",
+    "phonetic": "どようび",
+    "meaning": "Thứ 7",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "今",
+    "phonetic": "いま",
+    "meaning": "Bây giờ",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "今月",
+    "phonetic": "こんげつ",
+    "meaning": "Tháng này",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "今日",
+    "phonetic": "きょう",
+    "meaning": "Hôm nay",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "先月",
+    "phonetic": "せんげつ",
+    "meaning": "Tháng trước",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "来月",
+    "phonetic": "らいげつ",
+    "meaning": "Tháng sau",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "来ます",
+    "phonetic": "きます",
+    "meaning": "Đến",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "今年",
+    "phonetic": "ことし",
+    "meaning": "Năm nay",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "来年",
+    "phonetic": "らいねん",
+    "meaning": "Năm sau",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "毎年",
+    "phonetic": "まいとし",
+    "meaning": "Mỗi năm",
+    "note": "Bài 7 - Hán tự"
+  },
+  {
+    "word": "去年",
+    "phonetic": "きょねん",
+    "meaning": "Năm ngoái",
+    "note": "Bài 7 - Hán tự"
+  }
+]

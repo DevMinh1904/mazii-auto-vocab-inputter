@@ -1,0 +1,24 @@
+{
+  "name": "mazii-auto-vocab-inputter",
+  "version": "1.0.0",
+  "description": "Automated vocabulary inputter for Mazii Japanese notebooks",
+  "main": "mazii_bot.js",
+  "scripts": {
+    "start": "node mazii_bot.js",
+    "export-csv": "node export_csv.js",
+    "generate-snippet": "node generate_snippet.js"
+  },
+  "keywords": [
+    "mazii",
+    "japanese",
+    "vocabulary",
+    "automation",
+    "puppeteer"
+  ],
+  "author": "DevMinh1904",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
